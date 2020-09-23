@@ -4,10 +4,7 @@ title: post-sample
 date: 2020-01-02 19:20:23 +0900
 category: sample
 ---
-# post-sample
-> Hello!
-
-This is code
-```ruby
-print 'hello world'
-```
+# 2020年1月2号
+> 假如我能活六十岁
+> 那剩下的三十八岁
+> 都是陈美娟你的
