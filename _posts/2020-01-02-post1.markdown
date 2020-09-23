@@ -10,3 +10,4 @@ category: sample
 > 都是陈美娟你的
 
 ![enter description here](./images/pppp.png)
+<img src=./images/pppp.png>
