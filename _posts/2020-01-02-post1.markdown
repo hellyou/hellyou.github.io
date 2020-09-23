@@ -9,5 +9,4 @@ category: sample
 > 那剩下的三十八岁
 > 都是陈美娟你的
 
-![enter description here](./images/pppp.png)
-<img src=./images/pppp.png>
+<img src="./images/pppp.png">
