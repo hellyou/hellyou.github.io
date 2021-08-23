@@ -2,14 +2,13 @@
 > Welcome to Zhichao Wang's Page
 
 
-You can use the [editor on GitHub](https://github.com/hellyou/hellyou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### 看看看，你是[傻比](https://imgtu.com/i/hit1cq)吗还看！
+<br>
+**ly和mxp** 两个猪吧 
+<br>
+说的就是你俩
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hellyou/hellyou.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 爸爸爱你们
 
 ### Contact
 
