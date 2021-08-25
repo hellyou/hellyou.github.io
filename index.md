@@ -1,13 +1,5 @@
-## 王志超的个人主页
-> Welcome to Zhichao Wang's Page
-> 
-> 象牙塔里的某一部分人，你们会找到自己的归宿的，不在天上不在地下，在垃圾堆里
-> 
-<br><br>
+---
+layout: home
+---
 
-
-### 爸爸爱你们
-
-### Contact
-
-如果你有任何疑问，可以直接私信我
+Make Jelly site have a GitBook look!
